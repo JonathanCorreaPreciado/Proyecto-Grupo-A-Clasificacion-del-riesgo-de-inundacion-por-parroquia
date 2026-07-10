@@ -115,8 +115,8 @@ pip install openpyxl
 2. Abrir el notebook:
 
 ```
-Proyecto_Grupo_A.ipynb
-```
+[Proyecto_Grupo_A.ipynb
+](https://colab.research.google.com/drive/1_yqyxRZXlztYhtqKKmINbAVFrNLP2DKc?usp=sharing)```
 
 3. Ejecutar todas las celdas en orden.
 
