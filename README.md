@@ -110,13 +110,9 @@ pip install openpyxl
 
 # Ejecución
 
-1. Clonar o descargar el proyecto.
+1. Descargar el proyecto.
 
-2. Abrir el notebook:
-
-```
-[Proyecto_Grupo_A.ipynb
-](https://colab.research.google.com/drive/1_yqyxRZXlztYhtqKKmINbAVFrNLP2DKc?usp=sharing)```
+2. Abrir el notebook: ```Proyecto_Grupo_A.ipynb```
 
 3. Ejecutar todas las celdas en orden.
 
@@ -165,9 +161,3 @@ El modelo final permite:
 *   Rivas Toala Rodrigo Alexander
 *   Mora Baque Carlos Andrés
 *   Domenech Verdesoto Juan Pablo
-
----
-
-# 📄 Licencia
-
-Proyecto desarrollado únicamente con fines académicos.
