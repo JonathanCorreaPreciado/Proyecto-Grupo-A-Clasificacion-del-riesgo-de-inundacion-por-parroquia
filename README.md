@@ -36,6 +36,7 @@ Proyecto-Grupo-A-Clasificacion-del-riesgo-de-inundacion-por-parroquia/
 │   └── features_modelo.pkl
 │
 ├── Notebook/
+│   ├── requirements.txt
 │   └── Proyecto_Grupo_A.ipynb
 │
 ├── Código Flask/
