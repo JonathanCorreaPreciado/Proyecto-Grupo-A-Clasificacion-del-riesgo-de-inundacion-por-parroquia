@@ -1,0 +1,5 @@
+Modelo,Accuracy,Precision,Recall,F1-Score
+Regresión Logística,0.857,0.889,0.867,0.859
+Árbol de Decisión,0.714,0.722,0.717,0.715
+Ensamble,0.929,0.933,0.933,0.926
+RF Optimizado,0.786,0.822,0.8,0.789
