@@ -23,6 +23,7 @@ Proyecto-Grupo-A-Clasificacion-del-riesgo-de-inundacion-por-parroquia/
 ├── README.md
 ├── parroquias_guayas.geojson
 ├── Link de la aplicación Web
+├── requirements.txt
 │
 ├── Archivos csv/
 │   ├── predicciones_finales.csv
@@ -35,7 +36,6 @@ Proyecto-Grupo-A-Clasificacion-del-riesgo-de-inundacion-por-parroquia/
 │   └── features_modelo.pkl
 │
 ├── Notebook/
-│   ├── requirements.txt
 │   └── Proyecto_Grupo_A.ipynb
 │
 ├── Código Flask/
