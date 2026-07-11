@@ -21,7 +21,6 @@ Para ello se integran variables climáticas, geográficas, hidrológicas, demogr
 Proyecto-Grupo-A-Clasificacion-del-riesgo-de-inundacion-por-parroquia/
 │
 ├── README.md
-├── requirements.txt
 ├── parroquias_guayas.geojson
 ├── Link de la aplicación Web
 │
