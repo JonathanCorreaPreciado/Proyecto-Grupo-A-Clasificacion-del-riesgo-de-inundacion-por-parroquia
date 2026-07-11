@@ -48,6 +48,9 @@ Proyecto-Grupo-A-Clasificacion-del-riesgo-de-inundacion-por-parroquia/
 ├── Capturas del hosting
 │   └── Capturas del hosting
 │
+├── Templates
+│   └── index.html
+│
 └── Videos
     └── Vídeo demostrativo de la web
 
