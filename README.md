@@ -18,17 +18,38 @@ Para ello se integran variables climáticas, geográficas, hidrológicas, demogr
 # Estructura del Proyecto
 
 ```
-Proyecto/
+Proyecto-Grupo-A-Clasificacion-del-riesgo-de-inundacion-por-parroquia/
 │
-├── Proyecto_Grupo_A.ipynb
 ├── README.md
 ├── requirements.txt
-├── modelo_riesgo_inundacion.pkl
-├── scaler.pkl
-├── label_encoder.pkl
-├── features_modelo.pkl
-├── predicciones.csv
-└── data/
+├── parroquias_guayas.geojson
+├── Link de la aplicación Web
+│
+├── Archivos csv/
+│   ├── predicciones_finales.csv
+│   └── tabla_comparativa_modelos.csv
+│   
+├── Archivos.pkl/
+│   ├── modelo_riesgo_inundacion.pkl
+│   ├── scaler.pkl
+│   ├── label_encoder.pkl
+│   └── features_modelo.pkl
+│
+├── Notebook/
+│   └── Proyecto_Grupo_A.ipynb
+│
+├── Código Flask/
+│   └── app.py
+│
+├── Informe en Latex/
+│   ├── Proyecto_Final_Materia_-pdf
+│   └── Proyecto_LaTex_fuente_v2_.zip
+│
+├── Capturas del hosting
+│   └── Capturas del hosting
+│
+└── Videos
+    └── Vídeo demostrativo de la web
 
 ```
 
